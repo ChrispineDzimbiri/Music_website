@@ -1,0 +1,7 @@
+music_website_db (1).sql
+*.sql
+__pycache__/
+*.pyc
+*.log
+.env
+/static/
